@@ -17,16 +17,16 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="JX3-sY-whJ">
-                                <rect key="frame" x="-7" y="0.0" width="421" height="896"/>
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="JX3-sY-whJ" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="-44" id="BqL-Od-A8h"/>
-                            <constraint firstItem="JX3-sY-whJ" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="IdV-05-oql"/>
-                            <constraint firstItem="JX3-sY-whJ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Xn5-Aa-ast"/>
-                            <constraint firstItem="JX3-sY-whJ" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-27" id="cpZ-Ak-y84"/>
+                            <constraint firstItem="JX3-sY-whJ" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="I0u-3H-8T3"/>
+                            <constraint firstItem="JX3-sY-whJ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="gNX-sQ-zTf"/>
+                            <constraint firstAttribute="bottom" secondItem="JX3-sY-whJ" secondAttribute="bottom" id="vrF-co-7Gc"/>
+                            <constraint firstItem="JX3-sY-whJ" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="xGq-6e-0O3"/>
                         </constraints>
                     </view>
                 </viewController>
