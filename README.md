@@ -12,3 +12,4 @@ each button represents a node, how will the nodes be set up? start with BFS then
 
 if u finish, u should just buy a developers liscense cuz u in pretty deep by now.
  ooooo and make an app using firebase next... cuz thats cool, then maybe check out full stack apps or web scraping. guess this is my new journal...
+ oh you'll prob end up making an app using firebase for neuro nexus, so maybe something else, or just practise for neuro nexus. that goalkeeper app would be cool.
