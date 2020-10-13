@@ -1,0 +1,2 @@
+# SearchAlgoVisualizer
+ search algorithm visualizer
