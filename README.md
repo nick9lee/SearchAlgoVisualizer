@@ -3,8 +3,8 @@
 
 just an idea atm
 
-have 3 types of pathfinders, DFS, BFS, Dijkstra algos 
-maybe add weights, but not gonna start, just keep this in mind for expansion
+have 4 types of pathfinders, DFS, BFS, Dijkstra, A* algos 
+maybe add weights in the future, but not gonna start with them, just gonna keep this in mind for expansion
 
 
 allow barriers to be built, and end/start points to be changed
