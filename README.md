@@ -59,3 +59,5 @@ Node Start = new Node()
 that way you ensure only having one of each
 
 i almost gave up till i found this vid cuz collection views are difficult... it looks promising https://www.youtube.com/watch?v=KHQIGHOdPWg
+
+youtube.com/watch?v=Wi713xoTVsU this too, ya I'm def staying up all night.
