@@ -3,6 +3,8 @@
 
 just an idea atm
 
+sprite kit seems better so im might just start over
+
 have 4 types of pathfinders, DFS, BFS, Dijkstra, A* algos 
 maybe add weights in the future, but not gonna start with them, just gonna keep this in mind for expansion
 
